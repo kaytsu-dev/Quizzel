@@ -1,0 +1,70 @@
+Risultati quiz di user
+======================
+
+Tentativo del 2026-10-17T18:39:47+02:00
+Punteggio: 0/100
+
+1. Capitale di Austria
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Vienna
+2. Capitale di Norvegia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Oslo
+3. Capitale di Croazia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Zagabria
+4. Capitale di Polonia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Varsavia
+5. Capitale di Romania
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Bucarest
+6. Capitale di Cechia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Praga
+7. Capitale di Spagna
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Madrid
+8. Capitale di Germania
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Berlino
+9. Capitale di Bulgaria
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Sofia
+10. Capitale di Ungheria
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Budapest
+
+Tentativo del 2026-10-17T18:39:47+02:00
+Punteggio: 0/100
+
+1. Capitale di Austria
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Vienna
+2. Capitale di Norvegia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Oslo
+3. Capitale di Croazia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Zagabria
+4. Capitale di Polonia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Varsavia
+5. Capitale di Romania
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Bucarest
+6. Capitale di Cechia
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Praga
+7. Capitale di Spagna
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Madrid
+8. Capitale di Germania
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Berlino
+9. Capitale di Bulgaria
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Sofia
+10. Capitale di Ungheria
+   Risposta data: Nessuna risposta
+   Esito: Sbagliata — risposta corretta: Budapest

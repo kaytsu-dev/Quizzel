@@ -1,6 +1,8 @@
 # Quizzel
 
-Quiz locale in italiano sulle capitali europee: 10 domande mescolate a ogni tentativo (5 aperte e 5 a scelta multipla), con 10 punti per risposta corretta. Il punteggio di ogni tentativo viene aggiunto a `punteggi/punteggi.csv`.
+Quiz locale in italiano sulle capitali europee. All’avvio scegli tra un quiz di 10 domande a scelta multipla, 10 domande aperte oppure un quiz misto con 5 domande per tipo. Le domande vengono mescolate a ogni tentativo e ogni risposta corretta vale 10 punti. I risultati vengono aggiunti a `punteggi/punteggi.csv`.
+
+Ogni tentativo viene inoltre aggiunto al file `punteggi/<username>.txt`, con le risposte fornite e, in caso di errore, la risposta corretta. Per consultare i riepiloghi in un semplice elenco interattivo nel terminale, esegui `python visualizza_risposte.py`.
 
 ## Requisiti
 
