@@ -1,0 +1,7 @@
+{% extends "base.html" %}{% block title %}Domanda {{ index + 1 }} · Quizzel{% endblock %}{% block content %}
+<div class="page-heading"><div><div class="eyebrow">CIAO, {{ username|e }}</div><h1>Il quiz</h1></div><div class="points-pill">10 punti per risposta corretta</div></div>
+<div class="progress-wrap"><div class="progress-label"><span>Domanda {{ index + 1 }} di {{ total }}</span><span>{{ ((index + 1) / total * 100)|int }}%</span></div><div class="progress-track"><div class="progress-fill" style="width: {{ ((index + 1) / total * 100)|int }}%"></div></div></div>
+<form action="{{ url_for('submit') }}" method="post"><fieldset class="question card single-question"><legend><span class="number">{{ "%02d"|format(index + 1) }}</span><span>Qual è la capitale di {{ question.country }}?</span></legend>
+{% if question.type == 'open' %}<label class="sr-only" for="answer">La tua risposta</label><input id="answer" name="answer" type="text" maxlength="80" placeholder="Scrivi la capitale…" autocomplete="off" autofocus>
+{% else %}<div class="options">{% for option in question.options %}<label class="option"><input type="radio" name="answer" value="{{ option }}"><span>{{ option }}</span></label>{% endfor %}</div>{% endif %}</fieldset>
+<div class="submit-row"><span class="muted">Puoi lasciare vuota una risposta.</span><button class="button primary" type="submit">{{ 'Termina il quiz' if index + 1 == total else 'Prossima domanda' }} <span aria-hidden="true">→</span></button></div></form>{% endblock %}
